@@ -1,4 +1,5 @@
-#include <cs50.h>
+#include "src/cs50.h"
+#include "src/cs50.c"
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
